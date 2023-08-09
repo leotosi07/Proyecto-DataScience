@@ -1,2 +1,7 @@
 # Proyecto-DataScience
-Entrega Final del Proyecto de DataScience del alumno Leandro Garcia Tosi
+# Hotel booking
+Entrega Final del Proyecto de DataScience de Coderhouse
+Alumno Leandro Garcia Tosi
+Comisión 32850
+Profesor: Damian Ilkow
+Tutor: Mariano Rodas
